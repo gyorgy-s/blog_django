@@ -65,6 +65,5 @@ body {
   }
 
   .content {
-    display: flex;
     text-align: start;
   }
